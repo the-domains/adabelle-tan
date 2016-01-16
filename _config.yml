@@ -1,0 +1,29 @@
+name: Adabelle Tan
+favicon: null
+layout_spectrum: 0.38448298443108797
+typography_spectrum: 0.7763773882761598
+title: The Portfolio of Airdeh
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6648210661951452
+  lightness: 0.2929053648840636
+  saturation: 0.2092272825539112
+  rhythmicContrast: 0.03552234056405723
+purpose: []
