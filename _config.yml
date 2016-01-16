@@ -1,8 +1,7 @@
 name: Adabelle Tan
 favicon: null
-layout_spectrum: 0.1472
-typography_spectrum: 0.53241
-title: The Portfolio of Adabelle Tan
+layout_spectrum: 0.38448298443108797
+typography_spectrum: 0.7763773882761598
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#201f1d'
-    - '#cac7b8'
-    - '#9b998d'
-    - '#7e7b72'
-    - '#53524d'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6648210661951452
+  lightness: 0.2929053648840636
+  saturation: 0.2092272825539112
+  rhythmicContrast: 0.03552234056405723
 purpose: []
